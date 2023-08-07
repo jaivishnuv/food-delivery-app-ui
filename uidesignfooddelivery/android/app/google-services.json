@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246640161692",
+    "project_id": "fooddeliveryappui",
+    "storage_bucket": "fooddeliveryappui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246640161692:android:2d8e490b240f57a7258e59",
+        "android_client_info": {
+          "package_name": "com.example.uidesignfooddelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246640161692-6vgik1q3dmlqovhqg4qo0vilo6f6tovu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAelwh9wNHWbDjXOZrMfgz3BdawbwFrK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246640161692-6vgik1q3dmlqovhqg4qo0vilo6f6tovu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
